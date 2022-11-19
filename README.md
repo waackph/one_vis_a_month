@@ -1,2 +1,2 @@
-# one_vis_a_week
-This repository contains one small data story every week (more or less)
+# One Vis a Month
+This repository contains one small data story every month (more or less)
